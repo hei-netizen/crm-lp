@@ -1,0 +1,396 @@
+- generic [ref=e1]:
+  - generic [ref=e2]:
+    - complementary [ref=e3]:
+      - generic [ref=e4]:
+        - generic [ref=e5]: A
+        - generic [ref=e6]:
+          - generic [ref=e7]: Arcads CRM
+          - text: Victor og Jona
+      - navigation [ref=e8]:
+        - button "I dag 19" [ref=e61] [cursor=pointer]:
+          - generic [ref=e13]: I dag
+          - generic [ref=e62]: "19"
+        - button "Leads 19" [ref=e63] [cursor=pointer]:
+          - generic [ref=e18]: Leads
+          - generic [ref=e64]: "19"
+        - button "Salg 5" [ref=e65] [cursor=pointer]:
+          - generic [ref=e24]: Salg
+          - generic [ref=e66]: "5"
+        - button "Kunder 11" [ref=e67] [cursor=pointer]:
+          - generic [ref=e30]: Kunder
+          - generic [ref=e68]: "11"
+        - separator [ref=e31]
+        - button "Oppgaver 5" [ref=e69] [cursor=pointer]:
+          - generic [ref=e36]: Oppgaver
+          - generic [ref=e70]: "5"
+        - button "UGC-creators 18" [ref=e71] [cursor=pointer]:
+          - generic [ref=e41]: UGC-creators
+          - generic [ref=e72]: "18"
+      - generic [ref=e42]:
+        - generic [ref=e73]: Daglig sjekk i dag 14:34
+        - generic [ref=e74]: Oppdatert 15:05
+        - generic [ref=e43]: Jeg er
+        - generic [ref=e44]:
+          - button "Victor" [pressed] [ref=e45] [cursor=pointer]
+          - button "Jona" [ref=e46] [cursor=pointer]
+    - main [ref=e47]:
+      - generic [ref=e48]:
+        - generic [ref=e50]:
+          - heading "Kunder" [level=1] [ref=e75]
+          - paragraph
+        - generic [ref=e52]:
+          - combobox "Finn bedrift, lead eller person" [ref=e56]
+          - generic [ref=e57]: /
+        - button "+ Ny" [ref=e58] [cursor=pointer]
+      - generic [ref=e76]:
+        - generic [ref=e77]:
+          - generic [ref=e78]: 11 kunder · 7 000 kr/mnd
+          - generic [ref=e79] [cursor=pointer]:
+            - checkbox "Vis pausede" [ref=e80]
+            - text: Vis pausede
+        - generic [ref=e81]:
+          - generic [active] [ref=e82] [cursor=pointer]:
+            - generic [ref=e83]:
+              - generic [ref=e84]: Badstugutta
+              - generic "Victor" [ref=e85]: V
+            - generic [ref=e86]:
+              - generic [ref=e87]: Kontakt
+              - emphasis [ref=e88]: –
+              - generic [ref=e89]: Neste steg
+              - emphasis [ref=e90]: –
+            - link "Portal" [ref=e92]:
+              - /url: https://badstugutta.arcads.no/portal/
+            - generic [ref=e95]:
+              - generic [ref=e96]: "Siste rapport: Badstugutta — Mandagsrapport uke 39 (21.–27. september 2026)"
+              - generic [ref=e97]: "Avtale: Vedlegg 1: Databehandleravtale — Arcads x Badstugutta (utkast, august 2026)"
+          - generic [ref=e98] [cursor=pointer]:
+            - generic [ref=e99]:
+              - generic [ref=e100]: Frøyd
+              - generic "Victor" [ref=e101]: V
+            - generic [ref=e102]:
+              - generic [ref=e103]: Kontakt
+              - emphasis [ref=e104]: –
+              - generic [ref=e105]: Neste steg
+              - emphasis [ref=e106]: –
+            - link "Portal" [ref=e108]:
+              - /url: https://froyd.arcads.no/portal/
+            - generic [ref=e111]:
+              - generic [ref=e112]: "Siste rapport: Frøyd — Mandagsrapport uke 39 (21.–27. september 2026)"
+              - generic [ref=e113]: "Avtale: Kontrakt - Arcads x Frøyd"
+          - generic [ref=e114] [cursor=pointer]:
+            - generic [ref=e115]:
+              - generic [ref=e116]: Generalfinans
+              - generic "Victor" [ref=e117]: V
+            - generic [ref=e118]:
+              - generic [ref=e119]: Kontakt
+              - emphasis [ref=e120]: –
+              - generic [ref=e121]: Neste steg
+              - emphasis [ref=e122]: –
+            - link "Portal" [ref=e124]:
+              - /url: https://generalfinans.arcads.no/portal/
+            - generic [ref=e127]:
+              - generic [ref=e128]: "Siste rapport: Generalfinans — Mandagsrapport uke 39 (21.–27. september 2026)"
+              - generic [ref=e129]: "Avtale: Forslag til kontrakt for Generalfinans"
+          - generic [ref=e130] [cursor=pointer]:
+            - generic [ref=e131]:
+              - generic [ref=e132]: Mokki
+              - generic "Victor" [ref=e133]: V
+            - generic [ref=e134]:
+              - generic [ref=e135]: Kontakt
+              - emphasis [ref=e136]: –
+              - generic [ref=e137]: Neste steg
+              - emphasis [ref=e138]: –
+            - link "Portal" [ref=e140]:
+              - /url: https://mokki.arcads.no/portal/
+            - generic [ref=e143]: "Siste rapport: Mokki — Mandagsrapport uke 38 (14.–20. september 2026)"
+          - generic [ref=e145] [cursor=pointer]:
+            - generic [ref=e146]:
+              - generic [ref=e147]: QualiPet
+              - generic "Victor" [ref=e148]: V
+            - generic [ref=e149]:
+              - generic [ref=e150]: Kontakt
+              - emphasis [ref=e151]: Pål
+              - generic [ref=e152]: Neste steg
+              - emphasis [ref=e153]: Pre black month-ads mot /frysetorket/ fra 11.10 + test ads mot /beinkraft-til-hund/
+            - link "Portal" [ref=e155]:
+              - /url: https://qualipet.arcads.no/portal/
+            - generic [ref=e158]:
+              - generic [ref=e159]: "Siste rapport: QualiPet — Mandagsrapport uke 39 (21.–27. september 2026)"
+              - generic [ref=e160]: "Avtale: Kontrakt – QualiPet AS"
+          - generic [ref=e161] [cursor=pointer]:
+            - generic [ref=e162]:
+              - generic [ref=e163]: Rask Flytting
+              - generic "Victor" [ref=e164]: V
+            - generic [ref=e165]:
+              - generic [ref=e166]: Kontakt
+              - emphasis [ref=e167]: –
+              - generic [ref=e168]: Neste steg
+              - emphasis [ref=e169]: –
+            - link "Portal" [ref=e171]:
+              - /url: https://veldigrent.arcads.no/portal/
+            - generic [ref=e174]: "Siste rapport: Raskflytting — Mandagsrapport uke 39 (21.–27. september 2026)"
+          - generic [ref=e176] [cursor=pointer]:
+            - generic [ref=e177]:
+              - generic [ref=e178]: Redz Tattoo Supply
+              - generic "Victor" [ref=e179]: V
+            - generic [ref=e180]:
+              - generic [ref=e181]: Kontakt
+              - emphasis [ref=e182]: –
+              - generic [ref=e183]: Neste steg
+              - emphasis [ref=e184]: –
+            - generic [ref=e185]:
+              - link "Portal" [ref=e186]:
+                - /url: https://redz.arcads.no/portal/
+              - generic [ref=e189]: 7 000 kr/mnd
+            - generic [ref=e190]:
+              - generic [ref=e191]: "Siste rapport: Redz — Mandagsrapport uke 39 (21.–27. september 2026)"
+              - generic [ref=e192]: "Avtale: Kontrakt – Arcads x Redz"
+          - generic [ref=e193] [cursor=pointer]:
+            - generic [ref=e194]:
+              - generic [ref=e195]: Timbel
+              - generic "Victor" [ref=e196]: V
+            - generic [ref=e197]:
+              - generic [ref=e198]: Kontakt
+              - emphasis [ref=e199]: Albert
+              - generic [ref=e200]: Neste steg
+              - emphasis [ref=e201]: Lansering 05.10 — Jona setter opp test. Send klientportal + passord (timbel321!) til Timbel
+            - link "Portal" [ref=e203]:
+              - /url: https://timbel.arcads.no/portal/
+            - generic [ref=e206]: "Avtale: Samarbeidsavtale – Arcads x Timbel"
+          - generic [ref=e208] [cursor=pointer]:
+            - generic [ref=e209]:
+              - generic [ref=e210]: Utvendig Renhold
+              - generic "Jona" [ref=e211]: J
+            - generic [ref=e212]:
+              - generic [ref=e213]: Kontakt
+              - emphasis [ref=e214]: –
+              - generic [ref=e215]: Neste steg
+              - emphasis [ref=e216]: –
+            - link "Portal" [ref=e218]:
+              - /url: https://utvendigrenhold.arcads.no/portal/
+            - generic [ref=e221]: "Siste rapport: Månedsrapport (September 2026) — Leads Meta + Google"
+          - generic [ref=e223] [cursor=pointer]:
+            - generic [ref=e224]:
+              - generic [ref=e225]: Varmen tilbake
+              - generic "Victor" [ref=e226]: V
+            - generic [ref=e227]:
+              - generic [ref=e228]: Kontakt
+              - emphasis [ref=e229]: Vidar
+              - generic [ref=e230]: Neste steg
+              - emphasis [ref=e231]: "Lag ny «SMS: Prisgaranti» (feilsøking og reparasjon av gulvvarme) og svar på spørsmål om Facebook-kommentar"
+            - link "Portal" [ref=e233]:
+              - /url: https://varmentilbake.arcads.no/portal/
+            - generic [ref=e236]: "Avtale: Samarbeidsavtale – Arcads x Varmekabelreparatøren"
+          - generic [ref=e238] [cursor=pointer]:
+            - generic [ref=e239]:
+              - generic [ref=e240]: Veldig Rent
+              - generic "Victor" [ref=e241]: V
+            - generic [ref=e242]:
+              - generic [ref=e243]: Kontakt
+              - emphasis [ref=e244]: Nathaniel
+              - generic [ref=e245]: Neste steg
+              - emphasis [ref=e246]: –
+            - link "Portal" [ref=e248]:
+              - /url: https://veldigrent.arcads.no/portal/
+            - generic [ref=e251]:
+              - generic [ref=e252]: "Siste rapport: Veldig Rent — Mandagsrapport uke 39 (21.–27. september 2026)"
+              - generic [ref=e253]: "Avtale: Tilbud Veldigrent AS (1)"
+  - dialog "Badstugutta — Mandagsrapport uke 39 (21.–27. september 2026)" [ref=e254]:
+    - generic [ref=e255]:
+      - button "← Tilbake" [ref=e256] [cursor=pointer]
+      - generic [ref=e257]:
+        - generic [ref=e258]: Badstugutta — Mandagsrapport uke 39 (21.–27. september 2026)
+        - text: Badstugutta · 28. sep.
+      - link "Notion" [ref=e259] [cursor=pointer]:
+        - /url: https://app.notion.com/p/Badstugutta-Mandagsrapport-uke-39-21-27-september-2026-3e91ff91b059814bae6af20cb69e392b
+    - generic [ref=e263]:
+      - heading "Badstugutta — Mandagsrapport uke 39 (21.–27. september 2026)" [level=1] [ref=e264]
+      - blockquote [ref=e265]:
+        - paragraph [ref=e266]:
+          - strong [ref=e267]: 34,0 leads totalt (Google 15,0 + Meta 19) · blended CPL 581 kr på 19 742 kr spend.
+          - text: "Periode: uke 39 (21.–27. september) vs uke 38 (14.–20. september 2026). Kun Arcads-driftede kampanjer."
+      - separator [ref=e268]
+      - heading "⚡ Topplinje (Google + Meta)" [level=2] [ref=e269]
+      - blockquote [ref=e270]:
+        - paragraph [ref=e271]:
+          - text: 💸
+          - strong [ref=e272]: SPEND
+          - strong [ref=e273]: 19 742 kr
+          - text: ▼ 8% vs uke 38
+      - blockquote [ref=e274]:
+        - paragraph [ref=e275]:
+          - text: 🎯
+          - strong [ref=e276]: LEADS
+          - strong [ref=e277]: "34"
+          - text: ▲ 45% vs uke 38
+      - blockquote [ref=e278]:
+        - paragraph [ref=e279]:
+          - text: 🏷️
+          - strong [ref=e280]: BLENDED CPL
+          - strong [ref=e281]: 581 kr
+          - text: ▼ 36% vs uke 38
+      - separator [ref=e282]
+      - heading "📈 Trend" [level=2] [ref=e283]
+      - paragraph [ref=e284]:
+        - emphasis [ref=e285]: "[Bilde i Notion: Bilde]"
+      - table [ref=e286]:
+        - rowgroup [ref=e287]:
+          - row [ref=e288]:
+            - columnheader "Uke" [ref=e289]
+            - columnheader "Spend" [ref=e290]
+            - columnheader "Leads" [ref=e291]
+            - columnheader "CPL" [ref=e292]
+        - rowgroup [ref=e293]:
+          - row [ref=e294]:
+            - cell "36" [ref=e295]
+            - cell "13 992 kr" [ref=e296]
+            - cell "16,4" [ref=e297]
+            - cell "855 kr" [ref=e298]
+          - row [ref=e299]:
+            - cell "37" [ref=e300]
+            - cell "15 412 kr" [ref=e301]
+            - cell "30,1" [ref=e302]
+            - cell "513 kr" [ref=e303]
+          - row [ref=e304]:
+            - cell "38" [ref=e305]
+            - cell "15 090 kr" [ref=e306]
+            - cell "11,5" [ref=e307]
+            - cell "1 317 kr" [ref=e308]
+          - row [ref=e309]:
+            - cell [ref=e310]:
+              - strong [ref=e311]: "39"
+            - cell "14 582 kr" [ref=e312]
+            - cell "15,0" [ref=e313]
+            - cell [ref=e314]:
+              - strong [ref=e315]: 972 kr
+      - separator [ref=e316]
+      - heading "🟦 Google Ads" [level=2] [ref=e317]
+      - table [ref=e318]:
+        - rowgroup [ref=e319]:
+          - row [ref=e320]:
+            - columnheader "Metric" [ref=e321]
+            - columnheader "Uke 38" [ref=e322]
+            - columnheader "Uke 39" [ref=e323]
+            - columnheader "Δ" [ref=e324]
+        - rowgroup [ref=e325]:
+          - row [ref=e326]:
+            - cell "Spend" [ref=e327]
+            - cell "15 090" [ref=e328]
+            - cell "14 582" [ref=e329]
+            - cell "−3%" [ref=e330]
+          - row [ref=e331]:
+            - cell "Klikk" [ref=e332]
+            - cell "1 395" [ref=e333]
+            - cell "1 323" [ref=e334]
+            - cell "−5%" [ref=e335]
+          - row [ref=e336]:
+            - cell "Visninger" [ref=e337]
+            - cell "67 239" [ref=e338]
+            - cell "52 909" [ref=e339]
+            - cell "−21%" [ref=e340]
+          - row [ref=e341]:
+            - cell "CTR" [ref=e342]
+            - cell "2,07%" [ref=e343]
+            - cell "2,50%" [ref=e344]
+            - cell "+0,43pp" [ref=e345]
+          - row [ref=e346]:
+            - cell "Leads" [ref=e347]
+            - cell "11,5" [ref=e348]
+            - cell "15,0" [ref=e349]
+            - cell "+31%" [ref=e350]
+          - row [ref=e351]:
+            - cell [ref=e352]:
+              - strong [ref=e353]: CR%
+            - cell [ref=e354]:
+              - strong [ref=e355]: 0,82%
+            - cell [ref=e356]:
+              - strong [ref=e357]: 1,13%
+            - cell "+0,31pp" [ref=e358]
+          - row [ref=e359]:
+            - cell [ref=e360]:
+              - strong [ref=e361]: CPL
+            - cell [ref=e362]:
+              - strong [ref=e363]: 1 317 kr
+            - cell [ref=e364]:
+              - strong [ref=e365]: 972 kr
+            - cell "−26%" [ref=e366]
+      - paragraph [ref=e367]:
+        - emphasis [ref=e368]: "[Bilde i Notion: Bilde]"
+      - separator [ref=e369]
+      - heading "🔎 Søketermer (Google, denne uka)" [level=2] [ref=e370]
+      - paragraph [ref=e371]:
+        - strong [ref=e372]: "Beste søketermer:"
+      - table [ref=e373]:
+        - rowgroup [ref=e374]:
+          - row [ref=e375]:
+            - columnheader "Søketerm" [ref=e376]
+            - columnheader "Konv." [ref=e377]
+            - columnheader "Kostnad" [ref=e378]
+        - rowgroup [ref=e379]:
+          - row [ref=e380]:
+            - cell "badstugutta" [ref=e381]
+            - cell "3,0" [ref=e382]
+            - cell "471 kr" [ref=e383]
+      - paragraph [ref=e384]:
+        - strong [ref=e385]: "Dyreste uten konvertering:"
+      - table [ref=e386]:
+        - rowgroup [ref=e387]:
+          - row [ref=e388]:
+            - columnheader "Søketerm" [ref=e389]
+            - columnheader "Kostnad" [ref=e390]
+            - columnheader "Klikk" [ref=e391]
+        - rowgroup [ref=e392]:
+          - row [ref=e393]:
+            - cell "badstue" [ref=e394]
+            - cell "1 222 kr" [ref=e395]
+            - cell "32" [ref=e396]
+          - row [ref=e397]:
+            - cell "sauna" [ref=e398]
+            - cell "208 kr" [ref=e399]
+            - cell "9" [ref=e400]
+          - row [ref=e401]:
+            - cell "badstue stavanger" [ref=e402]
+            - cell "202 kr" [ref=e403]
+            - cell "3" [ref=e404]
+      - separator [ref=e405]
+      - heading "🟪 Meta Ads" [level=2] [ref=e406]
+      - table [ref=e407]:
+        - rowgroup [ref=e408]:
+          - row [ref=e409]:
+            - columnheader "Metric" [ref=e410]
+            - columnheader "Uke 38" [ref=e411]
+            - columnheader "Uke 39" [ref=e412]
+        - rowgroup [ref=e413]:
+          - row [ref=e414]:
+            - cell "Spend" [ref=e415]
+            - cell "6 355" [ref=e416]
+            - cell "5 160" [ref=e417]
+          - row [ref=e418]:
+            - cell "Visninger" [ref=e419]
+            - cell "53 313" [ref=e420]
+            - cell "34 941" [ref=e421]
+          - row [ref=e422]:
+            - cell "Klikk" [ref=e423]
+            - cell "1 710" [ref=e424]
+            - cell "1 445" [ref=e425]
+          - row [ref=e426]:
+            - cell [ref=e427]:
+              - strong [ref=e428]: Leads (skjema-sheet)
+            - cell [ref=e429]:
+              - strong [ref=e430]: "12"
+            - cell [ref=e431]:
+              - strong [ref=e432]: "19"
+          - row [ref=e433]:
+            - cell "Meta-pixel Lead-events" [ref=e434]
+            - cell "19" [ref=e435]
+            - cell "18" [ref=e436]
+          - row [ref=e437]:
+            - cell [ref=e438]:
+              - strong [ref=e439]: CPL (faktisk)
+            - cell [ref=e440]:
+              - strong [ref=e441]: 530 kr
+            - cell [ref=e442]:
+              - strong [ref=e443]: 272 kr
+      - separator [ref=e444]
+      - paragraph [ref=e445]:
+        - emphasis [ref=e446]: Rapport generert 2026-09-28 · Spørsmål? Svar på denne.

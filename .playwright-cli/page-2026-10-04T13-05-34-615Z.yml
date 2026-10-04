@@ -1,0 +1,196 @@
+- generic [ref=e2]:
+  - complementary [ref=e3]:
+    - generic [ref=e4]:
+      - generic [ref=e5]: A
+      - generic [ref=e6]:
+        - generic [ref=e7]: Arcads CRM
+        - text: Victor og Jona
+    - navigation [ref=e8]:
+      - button "I dag 19" [ref=e61] [cursor=pointer]:
+        - generic [ref=e13]: I dag
+        - generic [ref=e62]: "19"
+      - button "Leads 19" [ref=e63] [cursor=pointer]:
+        - generic [ref=e18]: Leads
+        - generic [ref=e64]: "19"
+      - button "Salg 5" [ref=e65] [cursor=pointer]:
+        - generic [ref=e24]: Salg
+        - generic [ref=e66]: "5"
+      - button "Kunder 11" [ref=e67] [cursor=pointer]:
+        - generic [ref=e30]: Kunder
+        - generic [ref=e68]: "11"
+      - separator [ref=e31]
+      - button "Oppgaver 5" [ref=e69] [cursor=pointer]:
+        - generic [ref=e36]: Oppgaver
+        - generic [ref=e70]: "5"
+      - button "UGC-creators 18" [ref=e71] [cursor=pointer]:
+        - generic [ref=e41]: UGC-creators
+        - generic [ref=e72]: "18"
+    - generic [ref=e42]:
+      - generic [ref=e73]: Daglig sjekk i dag 14:34
+      - generic [ref=e74]: Oppdatert 15:05
+      - generic [ref=e43]: Jeg er
+      - generic [ref=e44]:
+        - button "Victor" [pressed] [ref=e45] [cursor=pointer]
+        - button "Jona" [ref=e46] [cursor=pointer]
+  - main [ref=e47]:
+    - generic [ref=e48]:
+      - generic [ref=e50]:
+        - heading "Kunder" [level=1] [ref=e75]
+        - paragraph
+      - generic [ref=e52]:
+        - combobox "Finn bedrift, lead eller person" [ref=e56]
+        - generic [ref=e57]: /
+      - button "+ Ny" [ref=e58] [cursor=pointer]
+    - generic [ref=e76]:
+      - generic [ref=e77]:
+        - generic [ref=e78]: 11 kunder · 7 000 kr/mnd
+        - generic [ref=e79] [cursor=pointer]:
+          - checkbox "Vis pausede" [ref=e80]
+          - text: Vis pausede
+      - generic [ref=e81]:
+        - generic [ref=e82] [cursor=pointer]:
+          - generic [ref=e83]:
+            - generic [ref=e84]: Badstugutta
+            - generic "Victor" [ref=e85]: V
+          - generic [ref=e86]:
+            - generic [ref=e87]: Kontakt
+            - emphasis [ref=e88]: –
+            - generic [ref=e89]: Neste steg
+            - emphasis [ref=e90]: –
+          - link "Portal" [ref=e92]:
+            - /url: https://badstugutta.arcads.no/portal/
+          - generic [ref=e95]:
+            - generic [ref=e96]: "Siste rapport: Badstugutta — Mandagsrapport uke 39 (21.–27. september 2026)"
+            - generic [ref=e97]: "Avtale: Vedlegg 1: Databehandleravtale — Arcads x Badstugutta (utkast, august 2026)"
+        - generic [ref=e98] [cursor=pointer]:
+          - generic [ref=e99]:
+            - generic [ref=e100]: Frøyd
+            - generic "Victor" [ref=e101]: V
+          - generic [ref=e102]:
+            - generic [ref=e103]: Kontakt
+            - emphasis [ref=e104]: –
+            - generic [ref=e105]: Neste steg
+            - emphasis [ref=e106]: –
+          - link "Portal" [ref=e108]:
+            - /url: https://froyd.arcads.no/portal/
+          - generic [ref=e111]:
+            - generic [ref=e112]: "Siste rapport: Frøyd — Mandagsrapport uke 39 (21.–27. september 2026)"
+            - generic [ref=e113]: "Avtale: Kontrakt - Arcads x Frøyd"
+        - generic [ref=e114] [cursor=pointer]:
+          - generic [ref=e115]:
+            - generic [ref=e116]: Generalfinans
+            - generic "Victor" [ref=e117]: V
+          - generic [ref=e118]:
+            - generic [ref=e119]: Kontakt
+            - emphasis [ref=e120]: –
+            - generic [ref=e121]: Neste steg
+            - emphasis [ref=e122]: –
+          - link "Portal" [ref=e124]:
+            - /url: https://generalfinans.arcads.no/portal/
+          - generic [ref=e127]:
+            - generic [ref=e128]: "Siste rapport: Generalfinans — Mandagsrapport uke 39 (21.–27. september 2026)"
+            - generic [ref=e129]: "Avtale: Forslag til kontrakt for Generalfinans"
+        - generic [ref=e130] [cursor=pointer]:
+          - generic [ref=e131]:
+            - generic [ref=e132]: Mokki
+            - generic "Victor" [ref=e133]: V
+          - generic [ref=e134]:
+            - generic [ref=e135]: Kontakt
+            - emphasis [ref=e136]: –
+            - generic [ref=e137]: Neste steg
+            - emphasis [ref=e138]: –
+          - link "Portal" [ref=e140]:
+            - /url: https://mokki.arcads.no/portal/
+          - generic [ref=e143]: "Siste rapport: Mokki — Mandagsrapport uke 38 (14.–20. september 2026)"
+        - generic [ref=e145] [cursor=pointer]:
+          - generic [ref=e146]:
+            - generic [ref=e147]: QualiPet
+            - generic "Victor" [ref=e148]: V
+          - generic [ref=e149]:
+            - generic [ref=e150]: Kontakt
+            - emphasis [ref=e151]: Pål
+            - generic [ref=e152]: Neste steg
+            - emphasis [ref=e153]: Pre black month-ads mot /frysetorket/ fra 11.10 + test ads mot /beinkraft-til-hund/
+          - link "Portal" [ref=e155]:
+            - /url: https://qualipet.arcads.no/portal/
+          - generic [ref=e158]:
+            - generic [ref=e159]: "Siste rapport: QualiPet — Mandagsrapport uke 39 (21.–27. september 2026)"
+            - generic [ref=e160]: "Avtale: Kontrakt – QualiPet AS"
+        - generic [ref=e161] [cursor=pointer]:
+          - generic [ref=e162]:
+            - generic [ref=e163]: Rask Flytting
+            - generic "Victor" [ref=e164]: V
+          - generic [ref=e165]:
+            - generic [ref=e166]: Kontakt
+            - emphasis [ref=e167]: –
+            - generic [ref=e168]: Neste steg
+            - emphasis [ref=e169]: –
+          - link "Portal" [ref=e171]:
+            - /url: https://veldigrent.arcads.no/portal/
+          - generic [ref=e174]: "Siste rapport: Raskflytting — Mandagsrapport uke 39 (21.–27. september 2026)"
+        - generic [ref=e176] [cursor=pointer]:
+          - generic [ref=e177]:
+            - generic [ref=e178]: Redz Tattoo Supply
+            - generic "Victor" [ref=e179]: V
+          - generic [ref=e180]:
+            - generic [ref=e181]: Kontakt
+            - emphasis [ref=e182]: –
+            - generic [ref=e183]: Neste steg
+            - emphasis [ref=e184]: –
+          - generic [ref=e185]:
+            - link "Portal" [ref=e186]:
+              - /url: https://redz.arcads.no/portal/
+            - generic [ref=e189]: 7 000 kr/mnd
+          - generic [ref=e190]:
+            - generic [ref=e191]: "Siste rapport: Redz — Mandagsrapport uke 39 (21.–27. september 2026)"
+            - generic [ref=e192]: "Avtale: Kontrakt – Arcads x Redz"
+        - generic [ref=e193] [cursor=pointer]:
+          - generic [ref=e194]:
+            - generic [ref=e195]: Timbel
+            - generic "Victor" [ref=e196]: V
+          - generic [ref=e197]:
+            - generic [ref=e198]: Kontakt
+            - emphasis [ref=e199]: Albert
+            - generic [ref=e200]: Neste steg
+            - emphasis [ref=e201]: Lansering 05.10 — Jona setter opp test. Send klientportal + passord (timbel321!) til Timbel
+          - link "Portal" [ref=e203]:
+            - /url: https://timbel.arcads.no/portal/
+          - generic [ref=e206]: "Avtale: Samarbeidsavtale – Arcads x Timbel"
+        - generic [ref=e208] [cursor=pointer]:
+          - generic [ref=e209]:
+            - generic [ref=e210]: Utvendig Renhold
+            - generic "Jona" [ref=e211]: J
+          - generic [ref=e212]:
+            - generic [ref=e213]: Kontakt
+            - emphasis [ref=e214]: –
+            - generic [ref=e215]: Neste steg
+            - emphasis [ref=e216]: –
+          - link "Portal" [ref=e218]:
+            - /url: https://utvendigrenhold.arcads.no/portal/
+          - generic [ref=e221]: "Siste rapport: Månedsrapport (September 2026) — Leads Meta + Google"
+        - generic [ref=e223] [cursor=pointer]:
+          - generic [ref=e224]:
+            - generic [ref=e225]: Varmen tilbake
+            - generic "Victor" [ref=e226]: V
+          - generic [ref=e227]:
+            - generic [ref=e228]: Kontakt
+            - emphasis [ref=e229]: Vidar
+            - generic [ref=e230]: Neste steg
+            - emphasis [ref=e231]: "Lag ny «SMS: Prisgaranti» (feilsøking og reparasjon av gulvvarme) og svar på spørsmål om Facebook-kommentar"
+          - link "Portal" [ref=e233]:
+            - /url: https://varmentilbake.arcads.no/portal/
+          - generic [ref=e236]: "Avtale: Samarbeidsavtale – Arcads x Varmekabelreparatøren"
+        - generic [ref=e238] [cursor=pointer]:
+          - generic [ref=e239]:
+            - generic [ref=e240]: Veldig Rent
+            - generic "Victor" [ref=e241]: V
+          - generic [ref=e242]:
+            - generic [ref=e243]: Kontakt
+            - emphasis [ref=e244]: Nathaniel
+            - generic [ref=e245]: Neste steg
+            - emphasis [ref=e246]: –
+          - link "Portal" [ref=e248]:
+            - /url: https://veldigrent.arcads.no/portal/
+          - generic [ref=e251]:
+            - generic [ref=e252]: "Siste rapport: Veldig Rent — Mandagsrapport uke 39 (21.–27. september 2026)"
+            - generic [ref=e253]: "Avtale: Tilbud Veldigrent AS (1)"

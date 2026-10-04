@@ -1,0 +1,30 @@
+- generic [ref=e2]:
+  - complementary [ref=e3]:
+    - generic [ref=e4]:
+      - generic [ref=e5]: A
+      - generic [ref=e6]:
+        - generic [ref=e7]: Arcads CRM
+        - text: Victor og Jona
+    - navigation [ref=e8]:
+      - button "I dag" [ref=e9] [cursor=pointer]
+      - button "Leads" [ref=e14] [cursor=pointer]
+      - button "Salg" [ref=e19] [cursor=pointer]
+      - button "Kunder" [ref=e25] [cursor=pointer]
+      - separator [ref=e31]
+      - button "Oppgaver" [ref=e32] [cursor=pointer]
+      - button "UGC-creators" [ref=e37] [cursor=pointer]
+    - generic [ref=e42]:
+      - generic [ref=e43]: Jeg er
+      - generic [ref=e44]:
+        - button "Victor" [pressed] [ref=e45] [cursor=pointer]
+        - button "Jona" [ref=e46] [cursor=pointer]
+  - main [ref=e47]:
+    - generic [ref=e48]:
+      - generic [ref=e50]:
+        - heading "UGC-creators" [level=1] [ref=e51]
+        - paragraph
+      - generic [ref=e52]:
+        - combobox "Finn bedrift, lead eller person" [ref=e56]
+        - generic [ref=e57]: /
+      - button "+ Ny" [ref=e58] [cursor=pointer]
+    - generic [ref=e59]: Laster CRM …
