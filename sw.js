@@ -1,5 +1,5 @@
 // Arcads CRM — nettverk først, lagret kopi når man er offline. Data (api.github.com) caches aldri.
-const C='arcads-crm-v2';
+const C='arcads-crm-v3';
 self.addEventListener('install',e=>self.skipWaiting());
 self.addEventListener('activate',e=>e.waitUntil(self.clients.claim()));
 self.addEventListener('fetch',e=>{
